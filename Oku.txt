@@ -1,4 +1,4 @@
-sadece css ile kullanıldı.
+css ve az da olsa tailwind kullanıldı.
 geliştirilebilir.
 
 hamburger menü => prototürkten alındı.
